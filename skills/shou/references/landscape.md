@@ -32,7 +32,7 @@
 
 ### 记录格式
 
-`candidates.jsonl` 每行一条：
+`screening.jsonl` 每行一条：
 
 ```json
 {
@@ -96,7 +96,7 @@
 
 ## 1.6 成文
 
-读 `output.md` 的类型 A 模板，按模板输出，自检通过再回复。完整版本写入 `/tmp/shou/<slug>/report.md`，回复用户的是同一份内容的精简呈现，结论一致。
+读 `output.md` 的类型 A 模板，按模板输出，自检通过再回复。完整版本写入 `/tmp/shou/<slug>/research-report.md`，回复用户的是同一份内容的精简呈现，结论一致。
 
 ## 交接
 
