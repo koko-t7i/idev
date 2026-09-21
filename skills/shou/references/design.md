@@ -81,7 +81,7 @@
 
 ## 1.6 成文
 
-读 `output.md` 的类型 B 模板，自检通过再回复。完整版本写入 `.shou/<主题>/report.md`。
+读 `output.md` 的类型 B 模板，自检通过再回复。完整版本写入 `/tmp/shou/<slug>/report.md`。
 
 ## 交接
 
