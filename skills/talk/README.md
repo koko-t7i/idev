@@ -1,11 +1,11 @@
-# shou
+# talk
 
 调研 skill。先与用户确认调研方向，再做全景扫描，产出筛选、分类、成表的结论。
 
 ## 目录
 
 ```
-shou/
+talk/
   SKILL.md                    角色、类型路由、分阶段、执行顺序、规则
   references/
     intake.md                 阶段 0：判定类型、确认调研方向
@@ -31,8 +31,8 @@ shou/
 复制或软链到 agent 的 skill 目录：
 
 ```bash
-ln -s "$PWD/shou" ~/.claude/skills/shou
-# 或 ~/.codex/skills/shou、~/.grok/skills/shou、~/.agents/skills/shou
+ln -s "$PWD/talk" ~/.claude/skills/talk
+# 或 ~/.codex/skills/talk、~/.grok/skills/talk、~/.agents/skills/talk
 ```
 
 ## 范围
