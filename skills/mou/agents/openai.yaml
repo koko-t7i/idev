@@ -1,4 +1,4 @@
 interface:
   display_name: "mou"
-  short_description: "就事论事地讨论需求，谈成需求文档与实施计划"
-  default_prompt: "和我讨论这个需求：先给出你的判断和假设，把边界条件与验收标准推演清楚；谈拢后再读项目现状，定实施计划。"
+  short_description: "就事论事地讨论需求，谈成需求文档"
+  default_prompt: "和我讨论这个需求：先给出你的判断和假设，把边界条件与验收标准推演清楚，谈拢后写出需求文档。"
