@@ -41,12 +41,13 @@ talk/
 
 ## 安装
 
-复制或软链到 agent 的 skill 目录：
+软链到共用的 skill 目录：
 
 ```bash
-ln -s "$PWD/talk" ~/.claude/skills/talk
-# 或 ~/.codex/skills/talk、~/.grok/skills/talk、~/.agents/skills/talk
+ln -s "$PWD/talk" ~/.agents/skills/talk
 ```
+
+内容只留仓库这一份，链接指过去，改仓库即生效。客户端只读自己目录时，照同样方式再加一条软链。
 
 ## 范围
 
